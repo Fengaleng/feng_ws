@@ -1,0 +1,8 @@
+prefix=/home/fechec/feng_ws/install
+
+Name: target_detection
+Description: Description of target_detection
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roslib rospy sensor_msgs message_generation

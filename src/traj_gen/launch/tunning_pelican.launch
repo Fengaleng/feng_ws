@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="pelican" type="tunning_pelican_node" name="tunning_pelican" output="screen">
+		<remap from="odometry" to="/msf_core/odometry" />
+		<remap from="command/motor_rpm" to="/fcu/command/direct_motor" />
+	</node>
+</launch>

@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/attitude_control/lib/python2.7/dist-packages/attitude_control/msg/_des_acc_ang.py

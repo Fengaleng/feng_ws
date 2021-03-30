@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/position_control/share/gennodejs/ros/position_control/msg/min_snap_traj.js

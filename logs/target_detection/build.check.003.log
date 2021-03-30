@@ -1,0 +1,10 @@
+[31m[1mCMake Error[0m at /home/fechec/feng_ws/src/target_generation/CMakeLists.txt:1:
+  Parse error.  Expected "(", got identifier with text
+  "cmake_minimum_required".
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/fechec/feng_ws/build/target_detection/CMakeFiles/CMakeOutput.log".
+See also "/home/fechec/feng_ws/build/target_detection/CMakeFiles/CMakeError.log".
+Makefile:992: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

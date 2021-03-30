@@ -1,0 +1,6 @@
+[31m[1mCMake Error[0m at /home/fechec/feng_ws/src/target_generation/CMakeLists.txt:1:
+  Parse error.  Expected "(", got identifier with text
+  "cmake_minimum_required".
+
+
+make: *** [cmake_check_build_system] Error 1

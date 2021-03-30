@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/attitude_control/lib/pkgconfig/attitude_control.pc

@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/position_control/share/roseus/ros/position_control/manifest.l

@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~test_mode" : \b [int] test mode min: 0, default: 0, max: 6
+- \b "~enable_take_off" : \b [bool] enable take off min: False, default: False, max: True
+- \b "~enable_landing" : \b [bool] enable landing min: False, default: False, max: True
+

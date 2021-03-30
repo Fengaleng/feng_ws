@@ -1,0 +1,6 @@
+devel_space: /home/fechec/feng_ws/devel
+install: false
+install_space: /home/fechec/feng_ws/install
+profile: default
+source_space: /home/fechec/feng_ws/src
+workspace: /home/fechec/feng_ws

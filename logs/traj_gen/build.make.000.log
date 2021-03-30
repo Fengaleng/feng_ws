@@ -1,0 +1,132 @@
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _traj_gen_generate_messages_check_deps_min_snap_traj[0m
+[  0%] Built target _traj_gen_generate_messages_check_deps_min_snap_traj
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target traj_gen_gencfg[0m
+[ 10%] [34m[1mGenerating dynamic reconfigure files from cfg/controllerDyn.cfg: /home/fechec/feng_ws/devel/.private/traj_gen/include/traj_gen/controllerDynConfig.h /home/fechec/feng_ws/devel/.private/traj_gen/lib/python2.7/dist-packages/traj_gen/cfg/controllerDynConfig.py[0m
+Generating reconfiguration files for controllerDyn in traj_gen
+Wrote header file in /home/fechec/feng_ws/devel/.private/traj_gen/include/traj_gen/controllerDynConfig.h
+[ 10%] Built target traj_gen_gencfg
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[ 10%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[ 10%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[ 10%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[ 10%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 10%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 10%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[ 10%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[ 10%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 10%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 10%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 10%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[ 10%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[ 10%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 10%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[ 10%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 10%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 10%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[ 10%] Built target mav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[ 10%] Built target mav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[ 10%] Built target mav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[ 10%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[ 10%] Built target mav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 10%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[ 10%] Built target mav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 10%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 10%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 10%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[ 10%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 10%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[ 10%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[ 10%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target traj_gen_generate_messages_py[0m
+[ 20%] [34m[1mGenerating Python from MSG traj_gen/min_snap_traj[0m
+[ 30%] [34m[1mGenerating Python msg __init__.py for traj_gen[0m
+[ 30%] Built target traj_gen_generate_messages_py
+[35m[1mScanning dependencies of target traj_gen_generate_messages_lisp[0m
+[ 40%] [34m[1mGenerating Lisp code from traj_gen/min_snap_traj.msg[0m
+[ 40%] Built target traj_gen_generate_messages_lisp
+[35m[1mScanning dependencies of target traj_gen_generate_messages_eus[0m
+[ 50%] [34m[1mGenerating EusLisp code from traj_gen/min_snap_traj.msg[0m
+[ 60%] [34m[1mGenerating EusLisp manifest code for traj_gen[0m
+[ 60%] Built target traj_gen_generate_messages_eus
+[35m[1mScanning dependencies of target traj_gen_generate_messages_nodejs[0m
+[ 70%] [34m[1mGenerating Javascript code from traj_gen/min_snap_traj.msg[0m
+[ 70%] Built target traj_gen_generate_messages_nodejs
+[35m[1mScanning dependencies of target traj_gen_generate_messages_cpp[0m
+[ 80%] [34m[1mGenerating C++ code from traj_gen/min_snap_traj.msg[0m
+[ 80%] Built target traj_gen_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_gen_node[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/trajectory_gen_node.dir/src/trajectory_gen_main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/fechec/feng_ws/devel/.private/traj_gen/lib/traj_gen/trajectory_gen_node[0m
+[100%] Built target trajectory_gen_node
+[35m[1mScanning dependencies of target traj_gen_generate_messages[0m
+[100%] Built target traj_gen_generate_messages

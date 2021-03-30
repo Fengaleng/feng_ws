@@ -1,0 +1,8 @@
+prefix=/home/fechec/feng_ws/install
+
+Name: position_control
+Description: Description of position_control
+Version: 0.0.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lpd_pos_controller
+Requires: dynamic_reconfigure geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs trajectory_msgs message_generation std_msgs geometry_msgs traj_gen message_runtime

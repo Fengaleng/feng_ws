@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/attitude_control/share/common-lisp/ros/attitude_control/msg/_package_min_snap_traj.lisp

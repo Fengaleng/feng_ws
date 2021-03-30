@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/traj_gen/share/gennodejs/ros/traj_gen/_index.js

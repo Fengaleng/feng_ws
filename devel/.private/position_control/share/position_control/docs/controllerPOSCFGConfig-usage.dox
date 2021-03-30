@@ -1,0 +1,16 @@
+\subsubsection usage Usage
+\verbatim
+<node name="position_control" pkg="position_control" type="position_control">
+  <param name="new_controller_gains" type="bool" value="False" />
+  <param name="kz" type="double" value="10.0" />
+  <param name="kvz" type="double" value="5.0" />
+  <param name="kx" type="double" value="3.9" />
+  <param name="kvx" type="double" value="2.985" />
+  <param name="ky" type="double" value="4.0" />
+  <param name="kvy" type="double" value="3.05" />
+  <param name="ktheta" type="double" value="5.25" />
+  <param name="kphi" type="double" value="5.25" />
+  <param name="kpsi" type="double" value="1.0" />
+</node>
+\endverbatim
+

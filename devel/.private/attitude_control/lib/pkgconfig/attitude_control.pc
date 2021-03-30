@@ -1,0 +1,8 @@
+prefix=/home/fechec/feng_ws/devel/.private/attitude_control
+
+Name: attitude_control
+Description: Description of attitude_control
+Version: 0.0.0
+Cflags: -I/home/fechec/feng_ws/devel/.private/attitude_control/include -I/home/fechec/feng_ws/src/attitude_control/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lquat_att_control
+Requires: dynamic_reconfigure geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs trajectory_msgs message_generation std_msgs geometry_msgs traj_gen position_control message_runtime

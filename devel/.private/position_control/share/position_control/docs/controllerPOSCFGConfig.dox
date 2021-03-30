@@ -1,0 +1,15 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~new_controller_gains" : \b [bool] change controller gains min: False, default: False, max: True
+- \b "~kz" : \b [double] k-z min: 0.0, default: 10.0, max: 15.0
+- \b "~kvz" : \b [double] k-zd min: 0.0, default: 5.0, max: 10.0
+- \b "~kx" : \b [double] k-x min: 0.0, default: 3.9, max: 5.0
+- \b "~kvx" : \b [double] k-xd min: 0.0, default: 2.985, max: 5.0
+- \b "~ky" : \b [double] k-y min: 0.0, default: 4.0, max: 4.0
+- \b "~kvy" : \b [double] k-yd min: 0.0, default: 3.05, max: 4.0
+- \b "~ktheta" : \b [double] k-theta min: 0.0, default: 5.25, max: 6.75
+- \b "~kphi" : \b [double] k-phi min: 0.0, default: 5.25, max: 6.75
+- \b "~kpsi" : \b [double] k-psi min: 0.0, default: 1.0, max: 3.0
+

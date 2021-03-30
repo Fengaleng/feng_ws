@@ -1,0 +1,6 @@
+set(target_detection_SETUP_PY_VERSION "0.0.0")
+set(target_detection_SETUP_PY_SCRIPTS "")
+set(target_detection_SETUP_PY_PACKAGES "target_detection")
+set(target_detection_SETUP_PY_PACKAGE_DIRS "include/target_detection")
+set(target_detection_SETUP_PY_MODULES "")
+set(target_detection_SETUP_PY_MODULE_DIRS "")

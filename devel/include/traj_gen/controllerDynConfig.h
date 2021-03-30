@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/traj_gen/include/traj_gen/controllerDynConfig.h

@@ -1,0 +1,172 @@
+[35m[1mScanning dependencies of target target_detection_generate_messages_eus[0m
+[  0%] Built target target_detection_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target target_detection_generate_messages_py[0m
+[  0%] Built target target_detection_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[  0%] Built target mav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[  0%] Built target mav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[  0%] Built target mav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target traj_gen_generate_messages_nodejs[0m
+[  0%] Built target traj_gen_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target traj_gen_generate_messages_eus[0m
+[  0%] Built target traj_gen_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target traj_gen_gencfg[0m
+[  0%] Built target traj_gen_gencfg
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[  0%] Built target mav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target target_detection_generate_messages_cpp[0m
+[  0%] Built target target_detection_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target traj_gen_generate_messages_lisp[0m
+[  0%] Built target traj_gen_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target traj_gen_generate_messages_cpp[0m
+[  0%] Built target traj_gen_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target traj_gen_generate_messages_py[0m
+[  0%] Built target traj_gen_generate_messages_py
+[35m[1mScanning dependencies of target target_detection_generate_messages_lisp[0m
+[  0%] Built target target_detection_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target target_detection_generate_messages_nodejs[0m
+[  0%] Built target target_detection_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target _position_control_generate_messages_check_deps_target_dect_msg[0m
+[  0%] Built target _position_control_generate_messages_check_deps_target_dect_msg
+[35m[1mScanning dependencies of target _position_control_generate_messages_check_deps_des_acc_ang[0m
+[  0%] Built target _position_control_generate_messages_check_deps_des_acc_ang
+[35m[1mScanning dependencies of target _position_control_generate_messages_check_deps_min_snap_traj[0m
+[  0%] Built target _position_control_generate_messages_check_deps_min_snap_traj
+[35m[1mScanning dependencies of target position_control_gencfg[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/controllerPOSCFG.cfg: /home/fechec/feng_ws/devel/.private/position_control/include/position_control/controllerPOSCFGConfig.h /home/fechec/feng_ws/devel/.private/position_control/lib/python2.7/dist-packages/position_control/cfg/controllerPOSCFGConfig.py[0m
+Generating reconfiguration files for controllerPOSCFG in position_control
+Wrote header file in /home/fechec/feng_ws/devel/.private/position_control/include/position_control/controllerPOSCFGConfig.h
+[  4%] Built target position_control_gencfg
+[35m[1mScanning dependencies of target position_control_generate_messages_lisp[0m
+[  9%] [34m[1mGenerating Lisp code from position_control/min_snap_traj.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from position_control/des_acc_ang.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from position_control/target_dect_msg.msg[0m
+[ 18%] Built target position_control_generate_messages_lisp
+[35m[1mScanning dependencies of target position_control_generate_messages_eus[0m
+[ 22%] [34m[1mGenerating EusLisp code from position_control/min_snap_traj.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from position_control/des_acc_ang.msg[0m
+[ 31%] [34m[1mGenerating EusLisp code from position_control/target_dect_msg.msg[0m
+[ 36%] [34m[1mGenerating EusLisp manifest code for position_control[0m
+[ 36%] Built target position_control_generate_messages_eus
+[35m[1mScanning dependencies of target pd_pos_controller[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/pd_pos_controller.dir/src/library/pd_pos_controller.cpp.o[0m
+[ 45%] [32m[1mLinking CXX shared library /home/fechec/feng_ws/devel/.private/position_control/lib/libpd_pos_controller.so[0m
+[ 45%] Built target pd_pos_controller
+[35m[1mScanning dependencies of target position_control_generate_messages_py[0m
+[ 50%] [34m[1mGenerating Python from MSG position_control/min_snap_traj[0m
+[ 54%] [34m[1mGenerating Python from MSG position_control/des_acc_ang[0m
+[ 59%] [34m[1mGenerating Python from MSG position_control/target_dect_msg[0m
+[ 63%] [34m[1mGenerating Python msg __init__.py for position_control[0m
+[ 63%] Built target position_control_generate_messages_py
+[35m[1mScanning dependencies of target position_control_generate_messages_nodejs[0m
+[ 68%] [34m[1mGenerating Javascript code from position_control/min_snap_traj.msg[0m
+[ 72%] [34m[1mGenerating Javascript code from position_control/des_acc_ang.msg[0m
+[ 77%] [34m[1mGenerating Javascript code from position_control/target_dect_msg.msg[0m
+[ 77%] Built target position_control_generate_messages_nodejs
+[35m[1mScanning dependencies of target position_control_generate_messages_cpp[0m
+[ 81%] [34m[1mGenerating C++ code from position_control/min_snap_traj.msg[0m
+[ 86%] [34m[1mGenerating C++ code from position_control/des_acc_ang.msg[0m
+[ 90%] [34m[1mGenerating C++ code from position_control/target_dect_msg.msg[0m
+[ 90%] Built target position_control_generate_messages_cpp
+[35m[1mScanning dependencies of target pos_control_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/pos_control_node.dir/src/nodes/pos_controller_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/fechec/feng_ws/devel/.private/position_control/lib/position_control/pos_control_node[0m
+[100%] Built target pos_control_node
+[35m[1mScanning dependencies of target position_control_generate_messages[0m
+[100%] Built target position_control_generate_messages

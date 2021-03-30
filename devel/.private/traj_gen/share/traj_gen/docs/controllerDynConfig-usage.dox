@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="traj_gen" pkg="traj_gen" type="traj_gen">
+  <param name="test_mode" type="int" value="0" />
+  <param name="enable_take_off" type="bool" value="False" />
+  <param name="enable_landing" type="bool" value="False" />
+</node>
+\endverbatim
+

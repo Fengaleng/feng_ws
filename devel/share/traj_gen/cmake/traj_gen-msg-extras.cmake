@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/traj_gen/share/traj_gen/cmake/traj_gen-msg-extras.cmake

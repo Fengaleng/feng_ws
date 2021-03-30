@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/fechec/feng_ws/devel/.private/libmavconn/cmake.lock /home/fechec/feng_ws/devel/./cmake.lock
+/home/fechec/feng_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/fechec/feng_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/fechec/feng_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/fechec/feng_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/fechec/feng_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/fechec/feng_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/fechec/feng_ws/devel/.private/libmavconn/lib/libmavconn.so /home/fechec/feng_ws/devel/lib/libmavconn.so
+/home/fechec/feng_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/fechec/feng_ws/devel/lib/pkgconfig/libmavconn.pc

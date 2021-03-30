@@ -1,0 +1,8 @@
+Symlinking /home/fechec/feng_ws/devel/share/mavros/cmake/mavrosConfig.cmake
+Symlinking /home/fechec/feng_ws/devel/share/mavros/cmake/mavrosConfig-version.cmake
+Symlinking /home/fechec/feng_ws/devel/lib/libmavros_plugins.so
+Symlinking /home/fechec/feng_ws/devel/lib/libmavros.so
+Symlinking /home/fechec/feng_ws/devel/lib/python2.7/dist-packages/mavros/__init__.py
+Symlinking /home/fechec/feng_ws/devel/lib/pkgconfig/mavros.pc
+Symlinking /home/fechec/feng_ws/devel/lib/mavros/mavros_node
+Symlinking /home/fechec/feng_ws/devel/lib/mavros/gcs_bridge

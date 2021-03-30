@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/attitude_control/share/gennodejs/ros/attitude_control/_index.js

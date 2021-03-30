@@ -1,0 +1,1 @@
+/home/fechec/feng_ws/devel/.private/target_detection/share/roseus/ros/target_detection/manifest.l

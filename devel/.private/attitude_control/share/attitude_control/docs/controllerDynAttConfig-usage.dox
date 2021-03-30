@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="attitude_control" pkg="attitude_control" type="attitude_control">
+  <param name="new_parameters" type="bool" value="False" />
+  <param name="kt" type="double" value="6e-06" />
+  <param name="kd" type="double" value="3.1202e-07" />
+  <param name="Mx" type="double" value="7.0" />
+  <param name="My" type="double" value="7.0" />
+  <param name="Mz" type="double" value="8.0" />
+</node>
+\endverbatim
+

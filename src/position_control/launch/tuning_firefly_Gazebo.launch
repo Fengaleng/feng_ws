@@ -1,0 +1,19 @@
+<launch>
+  <arg name="world_name" default="basic"/>
+  <arg name="enable_logging" default="false" />
+  <arg name="enable_ground_truth" default="true" />
+  <arg name="debug" default="false"/>
+
+ <group ns="firefly">
+   <node name="trajectory_gen_node" pkg="traj_gen" type="trajectory_gen_node" output="screen">
+     <remap from="odometry" to="/firefly/odometry_sensor1/odometry" />
+   </node>
+   <node name="pos_control_node" pkg="position_control" type="pos_control_node" output="screen">
+     <remap from="odometry" to="/firefly/odometry_sensor1/odometry" />
+   </node>
+   <node name="quat_att_control_node" pkg="attitude_control" type="quat_att_control_node" output="screen">
+     <remap from="odometry" to="/firefly/odometry_sensor1/odometry" />
+     <remap from="command/motor_speed" to="/firefly/command/motor_speed" />
+   </node>
+  </group>
+</launch>
